@@ -15,13 +15,6 @@ The *description* below specifies the data made availabe in this repository.
 
 For a more complete description of how CREMA-D was created use [this link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4313618/) or the link below to the paper.
 
-#### Access
-
-If you access the GitHub repository, please fill out [this form](https://docs.google.com/forms/d/e/1FAIpQLSdvOR994_Hsx7OkBU3oCzluXcmxw2P1nr-zBxcPgVBNLdD9Eg/viewform?usp=sf_link). That way we can keep a record of the community of CREMA-D users.
-
-#### Contact/Questions
-
-If you have questions about this data set, please submit a new issue to the repository or contact <dcooper@wcupa.edu>.	
 
 #### Storage requirements
 
@@ -32,7 +25,7 @@ Note: This repository uses Git Large File Storage, [git-lfs](https://git-lfs.git
 
 #### Setup
 ```
-git lfs clone https://github.com/CheyneyComputerScience/CREMA-D.git
+git lfs clone https://github.com/Now33d/SentimentAnalysisDataset.git
 ```
 
 #### This Directory holds files used in the paper: 
